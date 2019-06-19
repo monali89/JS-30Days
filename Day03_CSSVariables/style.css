@@ -1,0 +1,43 @@
+:root {
+    --base: #ffc600;
+    --spacing: 10px;
+    --blur: 0px;
+}
+
+html {
+    background-color: bisque;
+}
+
+h1 {
+    position: relative;
+    text-align: center;
+    font-size: 40px;
+    font-family: serif;
+}
+
+.h1 {
+    color: var(--base);
+}
+
+input{
+    width: 100px;
+}
+
+.options {
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.range-bar {
+
+}
+
+img {
+    display: flex;
+    background: var(--base);
+    padding: var(--spacing);
+    filter: blur(var(--blur));    
+}
