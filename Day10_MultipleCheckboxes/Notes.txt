@@ -1,0 +1,27 @@
+Books JSON:
+    author: "Chinua Achebe"
+    country: "Nigeria"
+    imageLink: "images/things-fall-apart.jpg"
+    language: "English"
+    link: "https://en.wikipedia.org/wiki/Things_Fall_Apart↵"
+    pages: 209
+    title: "Things Fall Apart"
+    year: 1958
+
+Movies JSON:
+    Creative_Type: null
+    Director: null
+    Distributor: "Gramercy"
+    IMDB_Rating: 6.1
+    IMDB_Votes: 1071
+    MPAA_Rating: "R"
+    Major_Genre: null
+    Production_Budget: 8000000
+    Release_Date: "Jun 12 1998"
+    Rotten_Tomatoes_Rating: null
+    Running_Time_min: null
+    Source: null
+    Title: "The Land Girls"
+    US_DVD_Sales: null
+    US_Gross: 146083
+    Worldwide_Gross: 146083
