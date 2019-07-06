@@ -1,0 +1,11 @@
+html{
+    background-color: #E0E2D2;
+}
+
+body{
+    align-content: center;
+}
+
+.player{
+    padding: 100px 100px 100px 200px;
+}

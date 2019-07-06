@@ -1,0 +1,5 @@
+Custom Video Player
+
+1) Plays video from a saved file OR url
+2) User can startstop/pause video
+3) User can increase/decrease volumn
