@@ -1,0 +1,32 @@
+html {
+    background: url(C:/Users/Monali/git/JS-30Days/Day15_LocalStorage/background.jpg) center;
+    background-size: cover;
+}
+
+body {
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+.menu {
+    margin: 200px 200px 200px 500px;
+    width: 200px;
+    background: antiquewhite;
+    padding: 10px 10px 10px 10px;
+    border-style: outset;
+}
+
+.plate {
+    list-style: inside;
+}
+
+.add-items {
+
+}
+
+.item-text {
+    width: 100px;
+}
